@@ -18,7 +18,7 @@
     <h4>Ola! Meu nome e Vitor Daniel sou um estudante de Engenharia de Software em vassouras e gosto muito de programar
         e aprender sobre estou atualmente aprendendo python.
     </h4>
-#
+
 <!--tela de gerenciamento-->
 <div style="text-align: center;" align="center">
     <h3> GitHub Stats </h3>

@@ -15,9 +15,9 @@
 -->
 
 <div style="text-alight: center;" alight="center;">
-    <h1>Ola! Meu nome e Vitor Daniel sou um estudante de Engenharia de Software em vassouras e gosto muito de programar
+    <h2>Ola! Meu nome e Vitor Daniel sou um estudante de Engenharia de Software em vassouras e gosto muito de programar
         e aprender sobre estou atualmente aprendendo python.
-    </h1>
+    </h2>
 </div>
 
 <!--tela de gerenciamento-->

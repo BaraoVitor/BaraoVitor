@@ -15,8 +15,7 @@
 -->
 
 <div style="text-alight: center;" alight="center;">
-    <h2>Ola! Meu nome e Vitor Daniel sou um estudante de Engenharia de Software em vassouras e gosto muito de programar
-        e aprender sobre estou atualmente aprendendo python.
+    <h2>Olá! Meu nome é Vitor Daniel, sou estudante de Engenharia de Software em Vassouras e tenho grande paixão por programação. Atualmente, estou me dedicando ao aprendizado de Python, buscando aprimorar minhas habilidades e expandir meus conhecimentos na área.
     </h2>
 </div>
 

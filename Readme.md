@@ -37,7 +37,6 @@
 # Redes Sociais
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4169e1&color:FFF)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169e1&color:FFF)](https://linkedin.com/in/vitor-daniel-a2627326a)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4169e1&color:FFF)](https://instagram.com/vitor.1d)
 
 #
 <!--Minhas linguagens-->

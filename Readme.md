@@ -1,4 +1,4 @@
-<!--letras sendo escritas-->
+<!--letras sendo escritas
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+^_^+%E2%8A%B9+"
@@ -18,17 +18,22 @@
     <h2>Olá! Meu nome é Vitor Daniel, sou estudante de Engenharia de Software em Vassouras e tenho grande paixão por programação. Atualmente, estou me dedicando ao aprendizado de Python, buscando aprimorar minhas habilidades e expandir meus conhecimentos na área.
     </h2>
 </div>
-
+-->
 <!--tela de gerenciamento-->
 <div style="text-align: center;" align="center">
     <h3> GitHub Stats </h3>
     <br>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaraoVitor&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4169e1&text_color=FFF&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly"
-        alt="GitHub stats">
-
- <a href="https://github.com/BaraoVitor/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaraoVitor&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4169e1&hide=html,scss,less&bg_color=000&text_color=4169e1&border_radius=3&border_color=4169e1&count_private=true"
-  alt="Most Used Languages">
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </a>
 </div>
 

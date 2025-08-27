@@ -1,4 +1,4 @@
-<!--letras sendo escritas
+<!--letras sendo escritas-->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+^_^+%E2%8A%B9+"
@@ -12,7 +12,7 @@
         e aprender sobre estou atualmente aprendendo python.
     </h4>
 </div>
--->
+
 
 <div style="text-alight: center;" alight="center;">
     <h2>Olá! Meu nome é Vitor Daniel, sou estudante de Engenharia de Software em Vassouras e tenho grande paixão por programação. Atualmente, estou me dedicando ao aprendizado de Python, buscando aprimorar minhas habilidades e expandir meus conhecimentos na área.
